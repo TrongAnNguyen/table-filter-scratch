@@ -2,3 +2,23 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.tbl__header {
+  cursor: pointer;
+}
+.tbl__header__title {
+  display: flex;
+  justify-content: center;
+}
+
+.tbl__header__icon {
+  margin-left: 5px;
+}
+
+.query {
+  margin: 10px 0;
+}
+
+.query__label {
+  margin-right: 10px;
+}
